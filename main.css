@@ -1,0 +1,38 @@
+body {
+    background-color: aliceblue;
+}
+
+form {
+    margin: auto;
+    display: flex;
+    width: 130px;
+    flex-wrap: wrap;
+}
+
+form button {
+    margin: auto;
+}
+
+#btn {
+    display: flex;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+li {
+    list-style-type: none;
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-bottom: 30px;
+    width: 700px;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    /*margin: auto;*/
+    flex-wrap: wrap;
+    /*width: 800px;*/
+    justify-content: center;
+}
+
+
